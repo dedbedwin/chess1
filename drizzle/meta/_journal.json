@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1765506760732,
+      "tag": "0000_salty_firebrand",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1765507056031,
+      "tag": "0001_motionless_vulcan",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1765509869698,
+      "tag": "0002_loud_the_captain",
+      "breakpoints": true
+    }
+  ]
+}
